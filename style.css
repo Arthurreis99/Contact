@@ -1,0 +1,83 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 0;
+    box-sizing:border-box; 
+    margin: 0;
+}
+
+#titulo {
+    color: white;
+    text-align: center;
+    background-color:black;
+
+    height: 50px;
+}
+body {
+    background-color:rgba(0, 0, 0, 0.907);
+}
+h2 {
+    margin-top: 20px;
+    color: white;
+    margin-bottom: 20px;
+}
+#foto {
+    margin-top:100px;
+    border-radius: 100px;
+}
+.foto {
+    text-align: center;
+}
+.container {
+    text-align: center;
+    margin-top: 5%;
+}
+#insta {
+    height: 80px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+#spotify {
+    margin-right: 10px;
+    margin-left: 10px;
+    height: 80px;
+}
+#roblox {
+    margin-right: 10px;
+    margin-left: 10px;
+    height: 80px;
+}
+#yt {
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    height: 80px;
+}
+#git {
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    height: 80px;
+}
+footer {
+    border-radius: 20px;
+    height: 25px;
+    margin-left: 40%;
+    margin-right: 40%;
+    background-color: black;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+#sobre {
+    margin-top: 40px;
+    margin-left: 30px;
+    margin-right: 30px;
+    text-align: left;
+    color: white;
+    background-color: black;
+    height: 120px;
+    border-radius: 20px;
+}
+#text {
+    margin-left: 20px;
+}
